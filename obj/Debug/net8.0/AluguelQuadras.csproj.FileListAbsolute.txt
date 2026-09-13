@@ -1,0 +1,14 @@
+C:\Users\pedro\Documents\TRABALHO_TERÇA\bin\Debug\net8.0\AluguelQuadras.exe
+C:\Users\pedro\Documents\TRABALHO_TERÇA\bin\Debug\net8.0\AluguelQuadras.deps.json
+C:\Users\pedro\Documents\TRABALHO_TERÇA\bin\Debug\net8.0\AluguelQuadras.runtimeconfig.json
+C:\Users\pedro\Documents\TRABALHO_TERÇA\bin\Debug\net8.0\AluguelQuadras.dll
+C:\Users\pedro\Documents\TRABALHO_TERÇA\bin\Debug\net8.0\AluguelQuadras.pdb
+C:\Users\pedro\Documents\TRABALHO_TERÇA\obj\Debug\net8.0\AluguelQuadras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Documents\TRABALHO_TERÇA\obj\Debug\net8.0\AluguelQuadras.AssemblyInfoInputs.cache
+C:\Users\pedro\Documents\TRABALHO_TERÇA\obj\Debug\net8.0\AluguelQuadras.AssemblyInfo.cs
+C:\Users\pedro\Documents\TRABALHO_TERÇA\obj\Debug\net8.0\AluguelQuadras.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\TRABALHO_TERÇA\obj\Debug\net8.0\AluguelQuadras.dll
+C:\Users\pedro\Documents\TRABALHO_TERÇA\obj\Debug\net8.0\refint\AluguelQuadras.dll
+C:\Users\pedro\Documents\TRABALHO_TERÇA\obj\Debug\net8.0\AluguelQuadras.pdb
+C:\Users\pedro\Documents\TRABALHO_TERÇA\obj\Debug\net8.0\AluguelQuadras.genruntimeconfig.cache
+C:\Users\pedro\Documents\TRABALHO_TERÇA\obj\Debug\net8.0\ref\AluguelQuadras.dll
